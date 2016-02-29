@@ -1,0 +1,13 @@
+{
+  "name": "easeljs",
+  "version": "1.0.0",
+  "description": "Fork of EaselJS.",
+  "author": "Boris Etingof <boris.etingof@gmail.com.au>",
+  "license": "MIT",
+  "dependencies": {},
+  "main": "overrides/easeljs-0.8.2.combined.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borisetingof/EaselJS.git"
+  }
+}
